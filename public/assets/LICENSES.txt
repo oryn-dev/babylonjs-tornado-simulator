@@ -1,0 +1,16 @@
+Storm County: asset licences
+
+tex/grass.jpg, tex/mud.jpg, tex/mud-n.jpg, tex/brick.jpg, tex/brick-n.jpg, tex/planks.jpg, tex/planks-n.jpg
+  Poly Haven (polyhaven.com), CC0 1.0. Resized.
+
+fonts/Montserrat-Variable.ttf
+  Copyright The Montserrat Project Authors, SIL Open Font License 1.1 (fonts/OFL.txt).
+
+sfx/wood-*, metal-*, glass-*, thud-*, brick-1, collapse-*
+  "CC0 Sound Effects Library", OpenGameArt (opengameart.org/content/soundfx-library-cc0), CC0 1.0. Trimmed, layered and re-encoded.
+
+sfx/wind-*, debris-swirl, rain, thunder-*, whoosh-*, siren, surge, surge-ready, grow, star, end, zap, ui-tap
+music/menu.mp3, music/chase.mp3
+  Made for this game with tools/synth.py (own synthesis).
+
+All models, the other textures and the weather shaders are made in code for this game.
